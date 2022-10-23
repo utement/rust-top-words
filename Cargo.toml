@@ -1,16 +1,14 @@
 [package]
-name = "rust-top-words"
+name = "top-words"
 version = "0.1.0"
 authors = ["Uroš Tement <s57ut.radio@gmail.com>"]
 description = "Top words, used for morse code training, or anything else."
 edition = "2021"
 readme = "README.md"
 repository = "https://github.com/utement/rust-top-words"
-homepage = "https://github.com/utement/rust-top-words"
-documentation = "https://github.com/utement/rust-top-words"
 license = "MIT OR Apache-2.0"
 keywords = ["top-words", "text", "languages", "hamradio"]
-categories = ["text-processing", "internationalization", "localization"]
+categories = ["text-processing"]
 
 
 [dependencies]
